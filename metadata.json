@@ -1,0 +1,6 @@
+{
+  "name": "MarketSignal Pro - ಲೈವ್ ಟ್ರೇಡಿಂಗ್ ಸಿಗ್ನಲ್ & 5M ಕನ್ಫರ್ಮೇಶನ್",
+  "description": "All-market live trading analysis terminal with 5-minute trend confirmation, real-time upside/downside bias, and exact Buy, Sell & Exit signals for Indian Indices, Crypto, Forex, and Commodities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
